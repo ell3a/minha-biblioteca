@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    position:relative;
+    margin:0px;
+}
+
+header {
+    background-color: #658F81;
+    position:relative;
+    margin:0px;
+    margin-bottom: -20pt;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.titulo {
+    background-image: url("./img/maquina.jpg");
+    background-size: 100%;
+    background-position: center;
+    width: auto;
+    height: 200px;
+    position:relative;
+    margin:0px;
+}
+
+.titulo h1 {
+    font-size: 50px;
+}
